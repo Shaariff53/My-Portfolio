@@ -1,0 +1,8 @@
+.text-block {
+  cursor: default;
+}
+
+.text-block .char {
+  display: inline-block;
+  will-change: contents;
+}
